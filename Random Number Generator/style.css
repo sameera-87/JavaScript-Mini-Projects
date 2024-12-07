@@ -1,0 +1,22 @@
+body{
+
+    font-family: Verdana;
+    text-align: center;
+}
+
+#myButton{
+    font-size: 3em;
+    color: wheat;
+
+    padding: 5px 25px;
+    border-radius: 25px;
+    background-color: brown;
+
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.Labels{
+    font-size: 5em;
+    
+}
+

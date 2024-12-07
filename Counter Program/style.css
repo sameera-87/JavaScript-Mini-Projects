@@ -1,0 +1,38 @@
+
+
+#labelContainer{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+#countLabel{
+    width: 400px;
+    display: block;
+    align-self: center;
+    text-align: center;
+    font-size: 10em;
+    font-family: Helvetica;
+    border: solid 4px;
+    border-radius: 25px;
+}
+
+#btnContainer{
+    text-align: center;
+}
+
+
+.buttons{
+    padding: 10px 20px;
+    font-size: 1.5em;
+    color: blanchedalmond;
+    background-color: blue;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+
+.buttons:hover{
+    background-color: rgb(6, 38, 49);
+}
+
